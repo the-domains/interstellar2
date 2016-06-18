@@ -1,0 +1,14 @@
+layout_spectrum: 0.5
+color:
+  saturation: 0.7474937
+  lightness: 0.3239348
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#090806'
+    - '#6E736D'
+    - '#89948E'
+    - '#C8C0AB'
+  rhythmicContrast: 0.2390224
+typography_spectrum: 0.6015037
+name: Interstellar2
